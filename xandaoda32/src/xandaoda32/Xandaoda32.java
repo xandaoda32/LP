@@ -1,7 +1,9 @@
 package xandaoda32;
 
-public class Xandaoda32 {
+public class Xandaoda32 {;
     public static void main(String[] args) {
+        Carro carro = new Carro("Toyota", "Corolla");
+        carro.andar();
     }    
 }
 
